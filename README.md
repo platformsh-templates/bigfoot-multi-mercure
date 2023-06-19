@@ -4,7 +4,7 @@ Mercure is an open protocol for real-time communications designed to be fast, re
 
 Mercure is especially useful to add streaming capabilities to REST and GraphQL APIs. Because it is a thin layer on top of HTTP and SSE, Mercure is natively supported by modern web browsers, mobile applications and IoT devices.
 
-See https://mercure.rocks.
+See https://mercure.rocks .
 
 <a href="https://console.platform.sh/projects/create-project/?template=https://github.com/platformsh/mercure-rocks-example&utm_campaign=deploy_on_platform?utm_medium=button&utm_source=affiliate_links&utm_content=https://github.com/platformsh/mercure-rocks-example" target="_blank" title="Deploy with Platform.sh"><img src="https://platform.sh/images/deploy/deploy-button-lg-blue.svg"></a>
 
